@@ -102,7 +102,7 @@ Once you’ve updated or change these settings, click **Save Changes**.
 2.  Post name
 3.  Default
 
-**Correct Answer:** 2\. Post name
+**Answer:** 2\. Post name
 
 ### What setting would you use to show an excerpt of your posts on the Blog page, rather than the full content?
 
@@ -110,7 +110,7 @@ Once you’ve updated or change these settings, click **Save Changes**.
 2.  General Settings > Site Address URL
 3.  Reading Settings > For each article in a feed show > Summary
 
-**Correct Answer:** 3. Reading Settings > For each article in a feed show > Summary
+**Answer:** 3. Reading Settings > For each article in a feed show > Summary
 
 ## Additional Resources
 
