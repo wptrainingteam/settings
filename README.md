@@ -96,15 +96,15 @@ Once you’ve updated or change these settings, click **Save Changes**.
 
 ## Quiz
 
-### What setting would you use to have "Pretty Permalinks" on your website?
+**What setting would you use to have "Pretty Permalinks" on your website?**
 
 1.  Custom structure http://example.com/pretty/
 2.  Post name
 3.  Default
 
-**Answer:** 2\. Post name
+**Answer:** 2. Post name
 
-### What setting would you use to show an excerpt of your posts on the Blog page, rather than the full content?
+**What setting would you use to show an excerpt of your posts on the Blog page, rather than the full content?**
 
 1.  Reading Settings > Front page displays your latest posts
 2.  General Settings > Site Address URL
