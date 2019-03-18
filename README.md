@@ -41,7 +41,9 @@ You will be better equipped to work through this lesson if you have experience i
 
 ### Introduction: Welcome to WordPress!
 
-In this lesson you will learn the first steps in setting up the basic structure of your WordPress website. These settings will determine the page and post structure, users, commenting, and media settings to ensure that your website functions globally the way you intend it to. [![This is a screenshot of the Settings in the WordPress Dashboard](/images/Settings.png)](/images/Settings.png) From the WordPress Dashboard, locate the Settings menu. You will see the following options when you hover over this item: General, Writing, Reading, Discussion, Media, Permalinks.
+In this lesson you will learn the first steps in setting up the basic structure of your WordPress website. These settings will determine the page and post structure, users, commenting, and media settings to ensure that your website functions globally the way you intend it to. 
+[![This is a screenshot of the Settings in the WordPress Dashboard](/images/Settings.png)](/images/Settings.png) 
+From the WordPress Dashboard, locate the Settings menu. You will see the following options when you hover over this item: General, Writing, Reading, Discussion, Media, Permalinks.
 
 ### Step one: General Settings
 
