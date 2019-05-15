@@ -114,6 +114,14 @@ Once you’ve updated or change these settings, click **Save Changes**.
 
 **Answer:** 3. Reading Settings > For each article in a feed show > Summary
 
+**How to assign any static page as a frontend?**
+
+1. Reading Settings > Select 'A static page' from 'Your Home page displays' and select page from 'Homepage' dropdown
+2. General Settings > Select 'A static page' from 'Your Home page displays' and select page from 'Posts page' dropdown
+3. Reading Settings > Select 'Your latest posts ' from 'Your Home page displays' and select page from 'Homepage' dropdown
+
+**Answer:** 1. Reading Settings > Select 'A static page' from 'Your Home page displays' and select page from 'Homepage' dropdown
+
 ## Additional Resources
 
 [Settings](https://en.support.wordpress.com/settings/) @WordPress Support [Settings General Screen](https://codex.wordpress.org/Settings_General_Screen) @ Codex
